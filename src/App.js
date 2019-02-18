@@ -5,7 +5,7 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <h1>This is the Dev branch</h1>
+      <h1>This is the conflict2 branch</h1>
     );
   }
 }
